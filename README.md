@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
+- Preview: https://main--bboo--ekremney.hlx.page/
 - Live: https://main--bboo--ekremney.hlx.live/
 
 ## Installation
